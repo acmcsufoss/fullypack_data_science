@@ -9,12 +9,8 @@
 ![image](https://user-images.githubusercontent.com/58461444/229347610-ea8ad495-a4fb-4420-a4f9-99cc7dd17be1.png)
 
 # How to use 🚀
-1. Go to [Google Colab](https://colab.research.google.com/) to create your Notebook
-2. Follow [this article](https://medium.com/@ashwindesilva/how-to-use-google-colaboratory-to-clone-a-github-repository-e07cf8d3d22b) to clone the repo, the command will be
-
-```git clone https://github.com/acmcsufoss/fullypack_data_science.git``` 
-
-3. Explore and read the comments
+1. Click on [this link](https://colab.research.google.com/drive/1JoEpG_H7MiahLN-r-6lPynrCr5tEYNhF#sandboxMode=true&scrollTo=K5GgS_iqMwMl), click Ctrl+S to save it and copy it to your Drive then open it with Google Colab to play around with it
+2. Explore and read the comments
 
 ## Data Science? 😨
 
